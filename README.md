@@ -1,94 +1,17 @@
 # FirstMatey 🦜
-Mainly a Docker Compose file of containers that are running on my server. It also serves as source of information for anyone interested on creating the same thing. 
+This is a home server for our docker containers, media, bots, and personal files. Docker Compose is used. I'm hosting this here as a source of information for myself and for others.
 
-This is a home server for our docker containers, media, bots, and personal files.
+# Table of Contents 👷👷👷👷👷
 
-# Table of Contents
-
-1. [Portainer](#portainer)
-
-
-
-dsfsdfd
-
-dsfsdfd
-
-dsfsdfd
-
-dsfsdfd
-
-dsfsdfd
-
-dsfsdfd
-
-dsfsdfd
-
-dsfsdfd
-
-dsfsdfd
-
-dsfsdfd
-
-dsfsdfd
-
-dsfsdfd
-
-dsfsdfd
-dsfsdfd
-
-dsfsdfd
-
-dsfsdfd
-
-dsfsdfd
-
-dsfsdfd
-
-dsfsdfd
-
-dsfsdfd
-
-dsfsdfd
-
-
-dsfsdfd
-
-dsfsdfd
-
-dsfsdfd
-
-dsfsdfd
-
-dsfsdfd
-
-dsfsdfd
-
-dsfsdfd
-
-dsfsdfd
-
-dsfsdfd
-
-dsfsdfd
-
-dsfsdfd
-
-dsfsdfd
-
-dsfsdfd
-
-dsfsdfd
-
-dsfsdfd
-
-dsfsdfd
-
-dsfsdfd
-
-
-
-
-
-
+## 1. [Portainer](#portainer)
+## 2. [Pi-Hole](#pi-hole) 👷
+## 3. [WireGuard](#wireguard) 👷
+## 4. [Plex](#plex) 👷
+## 5. [Sonarr](#sonarr) 👷
+## 6. [Radarr](#radarr) 👷
+## 7. [Jackett](#jackett) 👷
+## 8. [Organizr](#organizr) 👷
 
 ## Portainer
+![## Portainer](images/Portainer-Logo.svg)
+
