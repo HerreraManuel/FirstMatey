@@ -3,14 +3,14 @@ This is a home server for our docker containers, media, bots, and personal files
 
 # Table of Contents 👷👷👷👷👷
 
-## 1. [Portainer](#portainer)
-## 2. [Pi-Hole](#pi-hole) 👷
-## 3. [WireGuard](#wireguard) 👷
-## 4. [Plex](#plex) 👷
-## 5. [Sonarr](#sonarr) 👷
-## 6. [Radarr](#radarr) 👷
-## 7. [Jackett](#jackett) 👷
-## 8. [Organizr](#organizr) 👷
+### 1. [Portainer](#portainer)
+### 2. [Pi-Hole](#pi-hole) 👷
+### 3. [WireGuard](#wireguard) 👷
+### 4. [Plex](#plex) 👷
+### 5. [Sonarr](#sonarr) 👷
+### 6. [Radarr](#radarr) 👷
+### 7. [Jackett](#jackett) 👷
+### 8. [Organizr](#organizr) 👷
 
 ## Portainer
 ![## Portainer](images/Portainer-Logo.svg)
