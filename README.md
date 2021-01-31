@@ -15,3 +15,20 @@ This is a home server for our docker containers, media, bots, and personal files
 ## Portainer
 ![## Portainer](images/Portainer-Logo.svg)
 This one is optional. Portainer is a container management tool. I'm mainly use the CLI but I keep this around when I need to manage something from my phone/tablet.
+
+```Dockerfile
+services:
+  portainer:
+    image: portainer/portainer
+    container_name: portainer
+    command: -H unix:///var/run/docker.sock
+    ports:
+      - "9000:9000"
+    volumes:
+    - var/run/docker.sock:/var/run/docker.sock
+    - ${CONFIG}/portainer/data:data
+    - ${CONFIG}/portainer/shared:shared
+    environment:
+      - TZ=${TZ}
+    restart: always
+```
