@@ -16,7 +16,7 @@ This is a home server for our docker containers, media, bots, and personal files
 ![## Portainer](images/Portainer-Logo.svg)
 This one is optional. Portainer is a container management tool. I'm mainly use the CLI but I keep this around when I need to manage something from my phone/tablet.
 
-```Dockerfile
+```yaml
 services:
   portainer:
     image: portainer/portainer
