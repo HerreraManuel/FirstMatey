@@ -1,5 +1,7 @@
 version: "3"
 
+# Setup enviroment variables: ${TZ} ${CONFIG} ${PUID} ${PGID} ${ROOT}
+# Take a look at the README.md for help
 services:
   portainer:
     image: portainer/portainer
